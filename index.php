@@ -6,6 +6,7 @@
    </head>
    <body>
       <!--Navigation Bar-->
+      <!--Hosted in GitHub-->
       <div class="nav">
          <div class="logo">
             <img class="logoimg" src="images/logo.png" alt="Logo">
